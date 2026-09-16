@@ -1,4 +1,4 @@
-# mf-cloud-import-taskにおける実装方法や工夫した点、動作確認の方法について
+# mf-cloud-import-taskの実装方法や工夫した点、動作確認方法について
 
 ## 実装方法
 
